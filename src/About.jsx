@@ -11,7 +11,7 @@ const About = () => {
           <h1 className='font-bold text-orange-500 text-3xl md:text-5xl mt-4'>Azizur Rehman and Associates</h1>
           <div className='flex flex-col'>
           <p className='text-black text-lg md:text-xl mt-6 leading-relaxed'>Azizur Rehman Sheikh has a experience of 20 years. He holds a degree
-            in Archtecture. He can do your dreams come true.<br/>
+            in Architecture. He can do your dreams come true.<br/>
             “To me, a building — if it’s beautiful — is the love of one man. He’s made it out of his love for space, materials, things like that.” — Martha Graham
           </p></div>
           </div>
